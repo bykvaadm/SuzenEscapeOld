@@ -1,0 +1,7 @@
+grep is a command that can be used on unix-like systems.
+
+it searches for any string in list of string or file.
+
+It is very fast.
+
+(f|g)ile
